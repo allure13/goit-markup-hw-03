@@ -33,6 +33,24 @@ img {
   clip: rect(0 0 0 0);
   overflow: hidden;
 }
+
+.section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.navi-header {
+  display: flex;
+  justify-content: flex-start;
+  align-items: stretch;
+}
+
+.address-header {
+  display: flex;
+  justify-content: flex-end;
+  align-items: baseline;
+}
+*/
 /*BODY STYLES*/
 body {
   font-family: "Roboto", sans-serif;
