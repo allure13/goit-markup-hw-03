@@ -177,7 +177,6 @@ ul {
 }
 
 .features-class {
-  font-family: "Roboto", sans-serif;
   letter-spacing: 0.02em;
   font-weight: 500;
   font-size: 20px;
@@ -185,7 +184,8 @@ ul {
   color: #2e2f42;
   margin-bottom: 8px;
 }
-.features-class .features-text {
+
+.features-text {
   font-size: 16px;
   line-height: 24px;
   letter-spacing: 0.02em;
